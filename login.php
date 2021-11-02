@@ -10,13 +10,10 @@
         </div>
 
         <div class="field">
-            <p class="control has-icons-left">
-                <input class="input" type="password" name="senha" placeholder="Digite sua senha">
-                <span class="icon is-small is-left">
-                    <i class="fas fa-lock"></i>
-                </span>
-            </p>
+            <label class="label">Senha</label>
+            <input class="input" type="password" name="senha" placeholder="Digite sua senha">
         </div>
+
 
 
         <!-- <input type="password" name="senha"> -->
