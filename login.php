@@ -14,10 +14,13 @@
             <input class="input" type="password" name="senha" placeholder="Digite sua senha">
         </div>
 
-
-
-        <!-- <input type="password" name="senha"> -->
-        <input type="submit" name="action" value="Enviar">
+        <div class="field">
+            <p class="control">
+                <button type="submit" name="action" value="Enviar" class="button is-success">
+                    Login
+                </button>
+            </p>
+        </div>
     </form>
 
 </div>
