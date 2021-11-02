@@ -1,10 +1,11 @@
 <div class="container">
 
     <form class="control" action="" method="POST">
+
         <div class="field">
-            <label class="label">Nome</label>
+            <label class="label">Name</label>
             <div class="control">
-                <input class="input" type="text" name="login" placeholder="Digite seu nome">
+                <input class="input" name="login" type="text" placeholder="Digite seu nome">
             </div>
         </div>
 
