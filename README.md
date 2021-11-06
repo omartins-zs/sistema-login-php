@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### **Utilitários**
 
 - **Link do Video: [SISTEMA DE LOGIN COM PHP (TUTORIAL)](https://www.youtube.com/watch?v=YaZJZ01MKP4)**
+- **Framework CSS: [BULMA.IO](https://bulma.io/)
 - **Icone Do PHP: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
 - **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
 - **Markdown: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)**
