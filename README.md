@@ -17,3 +17,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[HTML](https://www.w3schools.com/html/)**
 
 - **[CSS](https://www.w3schools.com/css/)**
+
+
+#### **Utilitários**
+
+- **Link do Video: [SISTEMA DE LOGIN COM PHP (TUTORIAL)](https://www.youtube.com/watch?v=YaZJZ01MKP4)**
+- **Icone Do PHP: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
+- **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
+- **Markdown: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)**
+- **Emoji Markdown: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)**
